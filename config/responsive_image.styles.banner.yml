@@ -1,0 +1,11 @@
+uuid: e4eb1cf5-6401-4b71-8f6f-c0691e7baf6b
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.banner
+id: banner
+label: Banner
+image_style_mappings: {  }
+breakpoint_group: responsive_image
+fallback_image_style: banner

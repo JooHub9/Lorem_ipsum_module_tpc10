@@ -1,0 +1,20 @@
+uuid: 8c730eaa-2c20-4851-90a9-6f4082ad8ecc
+langcode: en
+status: true
+dependencies: {  }
+name: banner
+label: Banner
+effects:
+  7e856206-76b4-4cd5-b6b2-715fbf8e1aa9:
+    uuid: 7e856206-76b4-4cd5-b6b2-715fbf8e1aa9
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1100
+      height: 300
+      anchor: center-center
+  b37c798a-f1b1-47e1-8bed-f64843ff08c0:
+    uuid: b37c798a-f1b1-47e1-8bed-f64843ff08c0
+    id: image_desaturate
+    weight: 2
+    data: {  }
